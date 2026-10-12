@@ -43,8 +43,6 @@
 ```text
 .
 ├── README.md
-├── Jawaban UTS - Yunistya Salwa Maharani.pdf
-├── jawaban_uts.html
 ├── soal1/
 │   ├── Gambar 1.1.png
 │   ├── Gambar 1.2.png
